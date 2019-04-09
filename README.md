@@ -7,9 +7,9 @@
 
 The first piece I chose is “Surface” by Geoffrey Drake-Brockman, an Australian new media artist. The piece was created in 2016 and is an interactive inverted LED light pond permanently displayed in the central lobby of the Perth Children's Hospital. Drake-Broffman created his own software that uses 4 sensors to detect pedestrian motion below the installation. Motion sets off a virtual rock thrown into the light pond that sets off colorful ripples. It allows for multiple rippes at once, which creates a complex design beyond the simple ripple motion. At 10m by 5m, it is the largest interactive 3D LED light matrix in the world. As you can see in the video linked below, it creates a mesmerizing design that uplifts the healing nature of the hospital, yet remains playful enough to be enjoyed by children. I chose this piece because I became interested in ripple-based artwork in the algorithmic art section of the course, as I designed my own algorithmic ripples art piece. This work takes that algorithmic design to the next level, by using cybernetics to convert motion sensing data into a 3D interactive art piece.
 
-![Here's a link to the piece](http://www.codaworx.com/project/surface-perth-childrens-hospital)
+[Here's a link to the piece](http://www.codaworx.com/project/surface-perth-childrens-hospital)
 
-![Check out a video of the interaction!](http://www.youtube.com/watch?time_continue=6&v=hJW_Fi-r68Q)
+[Check out a video of the interaction!](http://www.youtube.com/watch?time_continue=6&v=hJW_Fi-r68Q)
 
 
 
